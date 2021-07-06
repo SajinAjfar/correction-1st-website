@@ -1,0 +1,131 @@
+.yai{
+    font-size: xx-large;
+    color: gold;
+    text-align: center;
+}
+.bi{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.container{
+    margin-bottom: 10px;
+}
+.banner-background{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px gray;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF3887;
+}
+.buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;}
+    .categories h1{
+        color: white;
+    }
+    .categories img{
+        width: 100px;
+    }
+    h2{
+        padding-bottom: 50px;
+    }
+    .card{
+        border: none;
+        box-shadow:5px 5px 10px gray ;
+        border-radius: 10px;
+    }
+    .card-footer{
+        background-color: white;
+        border-top: none;
+    }
+    #subscribe{
+        height: 300px;
+    }
+    #moments{
+        color: gold;
+    }
+    #memories{
+        color: silver;
+    }
+    .corossol{
+        margin-bottom: 100px;
+    }
+    .memory{
+        margin-bottom: 100px;
+    }
+    #colors{
+        margin-top: 100px;
+    }
+    .look-color{
+        margin-top: 150px;
+    }
+    .photo-album{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .photo-frame{
+        width: 350px;
+        height: 250px;
+        border: 3px solid silver;
+        border-radius: 5px;
+        position: relative;
+        margin: 5px;
+        overflow: hidden;
+    }
+    .photo-frame .photo img{
+        width: 100%;
+    }
+    .photo-frame:hover .photo img{
+        transform: scale(1.2);
+        transition: transform 2s;
+    }
+    .photo-text{
+        position: absolute;
+        display: none;
+        width: 400px;
+        height: 300px;
+        top: 0;
+        color: rgba(245, 245, 245, 0.616);
+    }
+    .photo-frame:hover .photo-text{
+        display: block;
+    }
+    .photo-frame:hover .photo-text h2{
+        color: gray;
+        background-color: rgba(240, 255, 240, 0.705);
+    }
+    #food{
+        margin-top: 100px;
+    }
+    .body{
+        background-color: crimson;
+    }
+    .ending{
+        background-color: rgb(20, 20, 27);
+        color: white;
+    }
+    #useful-links{
+        margin-top: 50px;
+        margin-bottom: 20px;
+    }
+    #course-terms{
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+    footer{
+        text-align: center;
+        color: lightgray;
+        margin-top: 30px;
+    }
+    .address{
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
